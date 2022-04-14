@@ -1,0 +1,14 @@
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\bin\Debug\netcoreapp3.1\1442022ClassWork.exe
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\bin\Debug\netcoreapp3.1\1442022ClassWork.deps.json
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\bin\Debug\netcoreapp3.1\1442022ClassWork.runtimeconfig.json
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\bin\Debug\netcoreapp3.1\1442022ClassWork.runtimeconfig.dev.json
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\bin\Debug\netcoreapp3.1\1442022ClassWork.dll
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\bin\Debug\netcoreapp3.1\1442022ClassWork.pdb
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.csproj.AssemblyReference.cache
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.AssemblyInfoInputs.cache
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.AssemblyInfo.cs
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.dll
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.pdb
+C:\Users\Naz02\source\repos\1442022ClassWork\1442022ClassWork\obj\Debug\netcoreapp3.1\1442022ClassWork.genruntimeconfig.cache
